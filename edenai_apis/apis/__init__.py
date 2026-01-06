@@ -73,5 +73,6 @@ from .iointelligence import IointelligenceApi
 from .bytedance import BytedanceApi
 from .dashscope import DashscopeApi
 from .deepinfra import DeepinfraApi
+from .thetaedgecloud import ThetaedgecloudApi
 
 # THIS NEEDS TO BE DONE AUTOMATICALLY

@@ -1,0 +1,18 @@
+{
+  "original_response": {
+    "id": "infr_rqst_qahd166w86x3gu631v0z30",
+    "state": "success",
+    "output": {
+      "image_url": "https://ondemand-outputs.thetaedgecloud.com/srvc_76rcs4hdjsi2p4giqk6aq44zu38/prj_yxjzk2m2t4sczx8m0m8veqe4p38p/infr_rqst_qahd166w86x3gu631v0z30_image_url.webp",
+      "used_seed": "13528242372572276801"
+    }
+  },
+  "standardized_response": {
+    "items": [
+      {
+        "image": "",
+        "image_resource_url": "https://ondemand-outputs.thetaedgecloud.com/srvc_76rcs4hdjsi2p4giqk6aq44zu38/prj_yxjzk2m2t4sczx8m0m8veqe4p38p/infr_rqst_qahd166w86x3gu631v0z30_image_url.webp"
+      }
+    ]
+  }
+}

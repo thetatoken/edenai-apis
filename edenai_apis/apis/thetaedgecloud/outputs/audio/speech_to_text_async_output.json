@@ -1,0 +1,19 @@
+{
+  "status": "succeeded",
+  "provider_job_id": "infr_rqst_y75149r26wuczuu7gia9ap",
+  "original_response": {
+    "id": "infr_rqst_y75149r26wuczuu7gia9ap",
+    "state": "success",
+    "output": {
+      "text": "Humanity has four universal truths, life, procreation, and death. Not everyone is a man, but every man is a slave. Parents die, pair of thighs, Farrah dies, paradise. Few have the luxury to choose their master."
+    }
+  },
+  "standardized_response": {
+    "text": "Humanity has four universal truths, life, procreation, and death. Not everyone is a man, but every man is a slave. Parents die, pair of thighs, Farrah dies, paradise. Few have the luxury to choose their master.",
+    "diarization": {
+      "total_speakers": 0,
+      "entries": [],
+      "error_message": null
+    }
+  }
+}
